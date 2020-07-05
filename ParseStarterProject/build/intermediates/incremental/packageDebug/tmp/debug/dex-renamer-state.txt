@@ -1,0 +1,7 @@
+#Sat Jul 04 18:18:46 IST 2020
+base.0=/Users/rishuroy/Desktop/Uber/ParseStarterProject/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/rishuroy/Desktop/Uber/ParseStarterProject/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex

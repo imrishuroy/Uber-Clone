@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/rishuroy/Desktop/Uber/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_driver_location.xml.flat",
+        "source": "/Users/rishuroy/Desktop/Uber/ParseStarterProject/src/main/res/layout/activity_driver_location.xml"
+    },
+    {
+        "merged": "/Users/rishuroy/Desktop/Uber/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/rishuroy/Desktop/Uber/ParseStarterProject/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rishuroy/Desktop/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable_uber.jpg.flat",
+        "source": "/Users/rishuroy/Desktop/Uber/ParseStarterProject/src/main/res/drawable/uber.jpg"
+    },
+    {
+        "merged": "/Users/rishuroy/Desktop/Uber/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/rishuroy/Desktop/Uber/ParseStarterProject/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rishuroy/Desktop/Uber/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/rishuroy/Desktop/Uber/ParseStarterProject/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/rishuroy/Desktop/Uber/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/rishuroy/Desktop/Uber/ParseStarterProject/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rishuroy/Desktop/Uber/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/rishuroy/Desktop/Uber/ParseStarterProject/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rishuroy/Desktop/Uber/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_rider.xml.flat",
+        "source": "/Users/rishuroy/Desktop/Uber/ParseStarterProject/src/main/res/layout/activity_rider.xml"
+    },
+    {
+        "merged": "/Users/rishuroy/Desktop/Uber/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_view_requests.xml.flat",
+        "source": "/Users/rishuroy/Desktop/Uber/ParseStarterProject/src/main/res/layout/activity_view_requests.xml"
+    }
+]
